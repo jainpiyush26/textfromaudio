@@ -1,0 +1,8 @@
+# Virtual env
+.venv/
+
+# Visual Studio project
+.vscode/
+
+# Sample files for testing
+samples/
